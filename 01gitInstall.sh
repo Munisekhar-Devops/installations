@@ -19,7 +19,7 @@ make install
 
 git --version
 
-git config --global user.name "Mithun Technologies"
-git config --global user.email "devopstrainingblr@gmail.com"
+git config --global user.name "vasanth@111"
+git config --global user.email "vasanth59616@gmail.com"
 git config --list
 
